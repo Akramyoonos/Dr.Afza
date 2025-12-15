@@ -31,7 +31,7 @@ function ScrollToTop() {
 // App component (Main container)
 export default function App() {
   return (
-    <Router>
+    <Router basename="/Dr.Afza">
       <ScrollToTop />
       <div className="bg-slate-50 font-sans antialiased flex flex-col min-h-screen">
         <Navbar />
