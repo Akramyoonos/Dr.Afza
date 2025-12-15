@@ -65,7 +65,7 @@ function Navbar() {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-3 text-2xl font-bold text-sky-700">
             <FontAwesomeIcon icon={faStethoscope} className="text-3xl" />
-            <span className="font-heading">KidzCare Pedia</span>
+            <span className="font-heading">KidzCare  Pedia</span>
           </Link>
 
           {/* Desktop Menu */}
